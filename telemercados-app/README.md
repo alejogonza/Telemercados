@@ -38,11 +38,11 @@ npm install && quasar dev -m cordova -T android
 
 ## Descargar APK :iphone:
 
-[GeoWork APK](https://github.com/alejogonza/Telemercados/raw/main/telemercados-app/Telemercados.apk)
+[Telemercados APK](https://github.com/alejogonza/Telemercados/raw/main/telemercados-app/Telemercados.apk)
 
 ## Link de la pagina :computer:
 
-[Heroku page link](https://telemercados.herokuapp.com/)
+[Enlace a la página de Heroku](https://telemercados.herokuapp.com/)
 
 ## Autor :copyright:
 
